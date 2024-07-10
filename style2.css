@@ -1,0 +1,165 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+
+}
+
+#d1{
+    background-color:#3b5998  ;
+    height: 100px;
+    position: relative;
+    /* left: 50px; */
+    /* right: 50px; */
+}
+.c1{ 
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    position: relative;
+    top: 25px;
+    left: 200px;
+    
+}
+#d2{
+     font-family: Helvetica, Arial, sans-serif;
+    position: absolute;
+    top: 5px;
+    right: 200px;
+    color: white;
+    line-height: 25px; 
+
+    
+}
+
+.LogIn{
+    background-color: #516ba4;
+    border: solid black thin ;
+    color: white;
+    padding: 6px;
+    text-align: center;
+    font-size: 16px;
+    position: absolute;
+    top: 30px;
+    right: 130px;
+}
+.tr3{
+    color: #afc8fa;
+}
+
+.c2{
+    /* background-color: #dde1ea; */
+    height: 600px; 
+    width: 1473px; 
+    position: relative;
+    font-family: Helvetica, Arial, sans-serif;
+     
+     /*right: 50px; 
+     bottom: 50px; 
+     left: 50px; */
+}
+ #d4{
+    /*background-color:white;
+    height: 500px; */
+    position: absolute ;
+    top: 30px;
+    right: 275px;
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 40px;
+    letter-spacing: .5px;
+}
+#d5{
+  position: absolute;
+  top: 120px;
+  right: 370px;
+  border: solid thin;
+  padding: 10px;
+  border-radius: 5px;
+}
+#d6{
+position: absolute;
+top: 120px;
+right: 170px;
+border: solid thin;
+padding: 10px;
+ border-radius: 5px;
+}
+
+#d7{
+    position: absolute;
+    top: 170px;
+    right: 177px;
+    border: solid thin;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+#d8{
+ position: absolute;
+top: 220px;
+right: 177px;
+border: solid thin;
+padding: 10px;
+border-radius: 5px;
+}
+#d9{
+position: absolute;
+top: 280px;
+right: 450px;
+line-height: 28px;
+}
+#Birth,#gender{
+
+    color: grey;
+    
+}
+.date{
+    border: solid thin ;
+    
+}
+#d10{
+    position: absolute;
+    top: 350px;
+    right: 372px;
+    line-height: 28px;     
+}
+#d11{
+    width: 400px ;
+    position: absolute;
+    top: 420px;
+    right: 163px;
+    line-height: 24px;    
+    color: grey; 
+}
+a{
+    text-decoration: none;
+    color: #3b5998;
+
+}
+#d12{
+    background-color: #35a34d;
+    border: solid thin #308743;
+    color: white;
+    padding: 6px;
+    text-align: center;
+    font-size: 16px;
+    position: absolute;
+    top: 510px;
+    right: 490px;
+    border-radius: 5px;
+}
+
+h3{
+    color: #35559b  ;
+    position: absolute;
+    left: 200px;
+    top: 55px;
+}
+.logo{ 
+    height: 220px;
+    width: 570px;
+    position: absolute;
+    top: 110px;
+    left: 200px;
+}
